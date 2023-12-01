@@ -1,0 +1,15 @@
+{
+  "name": "83449d51-ca99-4535-b23d-f32f45b1bba9",
+  "displayName": "Store Hours",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Everyday 10.00 am to 11:00 pm" ]
+      },
+      "languageCode": "en"
+    } ]
+  }
+}
